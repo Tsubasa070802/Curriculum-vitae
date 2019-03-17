@@ -35,14 +35,19 @@
 
 ### プログラミングスクールT(2018/10〜2019/01)
 
--  オブジェクト指向、MVCなどについて学びながら、簡易版Instagramを作成
-| OS | MacOSX　|
-----|----
-|  言語 | Ruby, HTML5, jQuery, SCSS |
-| フレームワーク | Ruby on Rails |
-| ミドルウェア | MySQL |
-| その他 | Git |
-|
+-  オブジェクト指向、MVCなどについて学びながら、簡易版Instagramを作成  
+  
+  |OS |MacOSX |
+  --- | ---
+  |言語 |Ruby, HTML5, jQuery, SCSS |
+  |フレームワーク |Ruby on Rails |
+  |ミドルウェア |MySQL |
+  |その他 |Git |
+  |
+
+
+
+
 
 
 ## その他、学習中の内容
